@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "7bcb0f2d-a5ac-40b7-9738-9fc198b50d99",
+		"name": "Cloud",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26794875"
+	},
+	"item": [
+		{
+			"name": "API GET",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Summary",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "flux horaire par segment",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "top 10 segments par flux max",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
